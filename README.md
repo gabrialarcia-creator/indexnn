@@ -1,4 +1,3 @@
-[bund_treasuries_proWWWWWWWWWWW.html](https://github.com/user-attachments/files/26236759/bund_treasuries_proWWWWWWWWWWW.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
